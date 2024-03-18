@@ -1,0 +1,23 @@
+.bg {
+    background-image: url("07_Kensinger_Essex_Market_DSC_2693.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    text-indent: 50px;
+}
+
+    .title {
+        text-shadow: 2px 2px 4px black;
+        margin-top: 200px;
+      }
+
+      .heading {
+        margin-top: 75px;
+      }
+      .body {
+        width: 600px
+      }
+
